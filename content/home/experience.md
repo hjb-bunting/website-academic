@@ -49,8 +49,8 @@ experience:
   - title: Elections Night Data Assistant
     company: Sky Data
     company_url: ''
-    date_start: '2021'
-    date_end: '2021'
+    date_start: '2021-05-01'
+    date_end: '2021-05-20'
 
   - title: Teaching Assistant and Guest Lecturer
     company: University of Exeter
@@ -67,16 +67,16 @@ experience:
   - title: British Expert, Expert Election Commentary
     company: Keiskompas, BBC TV and Radio
     company_url: ''
-    date_start: '2019'
-    date_end: '2019'
+    date_start: '2019-03-01'
+    date_end: '2019-12-23'
     description: |2-
       Expert analysis of the European Parliament and British general elections.
 
   - title: Research Assistant
     company: The Elections Centre
     company_url: ''
-    date_start: '2014'
-    date_end: '2026'
+    date_start: '2014-04-01'
+    date_end: '2016-06-15'
       
 design:
   columns: '2'
