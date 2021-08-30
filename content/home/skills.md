@@ -30,10 +30,10 @@ feature:
   name: Science Communication
 
 # Uncomment to use emoji icons.
-- icon: ":smile:"
-  icon_pack: "emoji"
-  name: "Widening Participation"
-  description: "60%"  
+# - icon: ":smile:"
+  # icon_pack: "emoji"
+  #name: "Widening Participation"
+  #description: "60%"  
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
