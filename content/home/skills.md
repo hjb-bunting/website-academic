@@ -24,16 +24,16 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
+- description: 70%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Science Communication
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+- icon: ":smile:"
+  icon_pack: "emoji"
+  name: "Widening Participation"
+  description: "60%"  
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
