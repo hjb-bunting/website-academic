@@ -22,29 +22,61 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Assoc. Lecturer Social Data Analysis; SMART Skills Co-ordinator
+    company: University of Exeter
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    date_start: '2021-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Designing and delivering statistics courses to diverse audiences
+        * Producing world-class research as part of the outstanding Q-Step Centre and Politics department
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Fellow
+    company: TrustGov Project, University of Southampton
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2020-09-01'
+    date_end: '2021-06-26'
+    description: |2-
+      Project lead for:
 
+      * Collaboration with the OECD on a research report
+      * Joint lead on the commissioning of a documentary
+      * A variety of research activities including experimental and survey design
+
+  - title: Elections Night Data Assistant
+    company: Sky Data
+    company_url: ''
+    date_start: '2021'
+    date_end: '2021'
+
+  - title: Teaching Assistant and Guest Lecturer
+    company: University of Exeter
+    company_url: ''
+    date_start: '2018-02-14'
+    date_end: '2020-09-01'
+    description: |2-
+      Design and delivery of several modules including:
+
+      * Intro to Social Data, Social Data I and II
+      * State of Britian, the Economics of Politics
+      * The Institute of Coding
+
+  - title: British Expert, Expert Election Commentary
+    company: Keiskompas, BBC TV and Radio
+    company_url: ''
+    date_start: '2019'
+    date_end: '2019'
+    description: |2-
+      Expert analysis of the European Parliament and British general elections.
+
+  - title: Research Assistant
+    company: The Elections Centre
+    company_url: ''
+    date_start: '2014'
+    date_end: '2026'
+      
 design:
   columns: '2'
 ---
