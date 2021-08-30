@@ -35,7 +35,7 @@ education:
     institution: University of Exeter
     year: 2017
   - course: BSc Politics with International Relations
-    institution: Univeristy of Plymouth
+    institution: University of Plymouth
     year: 2016
 
 # Social/Academic Networking
@@ -73,6 +73,10 @@ email: ""
 highlight_name: false
 ---
 
-Hannah Bunting is Assoc. Lecturer in Social Data Analysis at the Exeter Q-Step Centre. She is also co-ordinator of the SMART SKills project delivery.
+Hannah Bunting is Assoc. Lecturer in Social Data Analysis at the Exeter Q-Step Centre and co-ordinator of the SMART SKills project delivery. She is a Visiting Fellow at the University of Southampton where she is co-investigator of a GCRF research project.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hannah gained her undergraduate degree from the University of Plymouth in Politics and International Relations, where she was awarded the Elections Centre Prize for the Best Student in the Field of Electoral Studies, before coming to Exeter for postgraduate study. She won an ESRC 1+3 Studentship to complete her MRes and PhD in Politics. Hannah's doctoral thesis was entitled _Electoral Competitiveness and Turnout: How System and Preference Uncertainty Impact the Decision to Vote in Britain_. As a quantitative researcher, her interests include British elections, parties and party systems, gender, political trust and measurement. 
+
+With expertise in a variety of research methods, Hannah is available as an academic consultant. 
+
+#{{< icon name="download" pack="fas" >}} #Download my {{< staticref "uploads/demo_resume.#pdf" "newtab" >}}resumé{{< /staticref >}}.
